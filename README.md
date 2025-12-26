@@ -16,13 +16,8 @@ The dashboard visualizes several critical performance indicators (KPIs):
 ## 🛠️ Tools Used
 
 * **Tableau Desktop:** Data visualization and interactive dashboard design.
-* **Dataset:** British Airways passenger reviews (Packaged in `.twbx`).
-
-## 🚀 View the Interactive Dashboard
-
-Since GitHub cannot render Tableau files directly, you can view the live, interactive version here:
-👉 **[INSERT YOUR TABLEAU PUBLIC LINK HERE]**
-
+* **Dataset:** British Airways passenger reviews.
+  
 ## 📂 Repository Structure
 
 * `British Airways Reviews.twbx`: The primary Tableau packaged workbook.
